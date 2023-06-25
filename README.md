@@ -8,8 +8,8 @@
 
 # Passo 2:
 
-- Alterne para a Branch: **desafio**.
-  - No terminal: git checkout desafio
+- Alterne para a Branch: **main**.
+  - No terminal: git main desafio
 
 # Passo 3:
 
