@@ -1,0 +1,46 @@
+a {
+    text-decoration: none;
+}
+
+.icon {
+    color: white;
+}
+
+.btn {
+    border-radius: 15px;
+}
+
+.loading {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 9999;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.loading i {
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+.loading-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.card-img-top {
+    object-fit: cover;
+    height: 250px;
+    background-color: #ffffff;
+}
+
+.navbar {
+    background: #25252f;
+}

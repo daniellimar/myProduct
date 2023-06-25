@@ -1,0 +1,21 @@
+{
+    "name": "danie/arqmedesalphateste",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        },
+        "files": [
+            "app/helpers/json.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Daniel Rodrigues de Lima",
+            "email": "daniel.engca@outlook.com"
+        }
+    ],
+    "require": {
+        "league/plates": "^3.5",
+        "ext-pdo": "*"
+    }
+}
